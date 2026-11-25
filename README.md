@@ -75,5 +75,5 @@ The current prototype uses predefined interaction pathways and cannot independen
 
 This repository contains the project documentation, system architecture, diagnostic pathway diagrams and development evidence.
 
-**Submitted version:** b933cbf
+**Submitted version:** 53d4a67
 **README word count:** 443 words
